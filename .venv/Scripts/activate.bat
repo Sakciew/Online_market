@@ -8,11 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-<<<<<<< HEAD
-set VIRTUAL_ENV=D:\KI_AXB\online_market\.venv
-=======
-set VIRTUAL_ENV=D:\DJANGO\online_market\.venv
->>>>>>> 4c0ccf2dd1d44a0d4c49fe961a611065d2189380
+set VIRTUAL_ENV=C:\Users\User\PycharmProjects\new-online-store\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 
